@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<keymap version="1" name="Gnome Custom" parent="Default for GNOME" />
+<keymap version="1" name="Gnome Custom" parent="Default for GNOME">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift control W" />
+  </action>
+</keymap>
 
