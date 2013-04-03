@@ -5,8 +5,27 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="control BACK_QUOTE" />
+  </action>
+  <action id="QuickChangeScheme" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift control W" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
   </action>
 </keymap>
 
