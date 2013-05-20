@@ -3,9 +3,12 @@
   <component name="FileTypeManager" version="11">
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
     <extensionMap>
+      <mapping pattern="supervisor.conf" type="INI File" />
       <mapping ext="ini" type="INI File" />
       <mapping pattern="tictai" type="PHP" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping pattern="vhost*.inc" type="htaccess" />
+      <mapping pattern="vhost*.conf" type="htaccess" />
     </extensionMap>
   </component>
 </application>

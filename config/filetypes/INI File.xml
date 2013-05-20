@@ -7,11 +7,13 @@
       <option name="COMMENT_END" value="" />
       <option name="HEX_PREFIX" value="" />
       <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACKETS" value="true" />
       <option name="LINE_COMMENT_AT_START" value="true" />
     </options>
     <keywords ignore_case="false" />
   </highlighting>
   <extensionMap>
+    <mapping pattern="supervisor.conf" />
     <mapping ext="ini" />
   </extensionMap>
 </filetype>
