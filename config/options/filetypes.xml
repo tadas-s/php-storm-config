@@ -5,7 +5,10 @@
     <extensionMap>
       <mapping pattern="supervisor.conf" type="INI File" />
       <mapping ext="ini" type="INI File" />
+      <mapping ext="md" type="Native" />
       <mapping pattern="tictai" type="PHP" />
+      <mapping pattern="container" type="PLAIN_TEXT" />
+      <mapping pattern="configKey" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping pattern="vhost*.inc" type="htaccess" />
       <mapping pattern="vhost*.conf" type="htaccess" />

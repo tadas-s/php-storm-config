@@ -3,10 +3,21 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="control W" />
   </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="alt LEFT" />
+  </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="control BACK_QUOTE" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="control PAGE_DOWN" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="control PAGE_UP" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="ReopenClosedTab">
