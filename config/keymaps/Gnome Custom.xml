@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="Gnome Custom" parent="Default for GNOME">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt LEFT" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="control W" />
   </action>
@@ -10,6 +13,9 @@
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt RIGHT" />
+  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="control BACK_QUOTE" />
   </action>
