@@ -1791,19 +1791,16 @@
     <option name="YAML_COMMENT">
       <value>
         <option name="FOREGROUND" value="b729d9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="YAML_SCALAR_DSTRING">
       <value>
         <option name="FOREGROUND" value="56db3a" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="ff8400" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
@@ -1812,7 +1809,6 @@
     <option name="YAML_SCALAR_STRING">
       <value>
         <option name="FOREGROUND" value="56db3a" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="YAML_SIGN">

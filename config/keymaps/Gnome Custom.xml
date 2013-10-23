@@ -12,9 +12,14 @@
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
   <action id="EditorUnSelectWord" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt RIGHT" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="control BACK_QUOTE" />
